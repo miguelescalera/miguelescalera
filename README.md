@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
-<h3 align="center">A passionate FullStack developer from Argentina, Caba</h3>
+<h3 align="center">A passionate Frontend developer from Argentina, Caba</h3>
 
 <!--
 **miguelescalera/miguelescalera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
